@@ -4,7 +4,7 @@ A simple Revolt bot that interacts with the [revolt.social](https://revolt.socia
 
 ## Building guide
 
-1.  Download >= Dart 3.13.
+1.  Download >= Dart 2.13.
 2.  Clone this repository and move to its directory
 3.  Get depedencies: `dart pub get`
 4.  Compile project: `dart compile exe bin/rs.dart -o /path/to/binary/rs`
