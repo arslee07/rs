@@ -2,8 +2,6 @@
 
 A simple Revolt bot that interacts with the [revolt.social](https://revolt.social/) API. Built using [Volt](https://github.com/volt-framework/volt).
 
----
-
 ## Building guide
 
 1.  Download >= Dart 3.13.
